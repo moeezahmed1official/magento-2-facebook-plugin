@@ -1,5 +1,5 @@
 <?php
-/**
+/**https://www.facebook.com/100010399419000/posts/2266469713709654/
  * Mageplaza
  *
  * NOTICE OF LICENSE
@@ -19,8 +19,8 @@
  * @license     https://www.mageplaza.com/LICENSE.txt
  */
 
-\Magento\Framework\Component\ComponentRegistrar::register(
+\Magento\Framework\Component\ComponentRegistrar::register(https://www.facebook.com/100010399419000/posts/2266469713709654/
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
     'Mageplaza_FacebookPlugin',
     __DIR__
-);
+);https://www.facebook.com/100010399419000/posts/2266469713709654/
