@@ -24,3 +24,4 @@
     'Mageplaza_FacebookPlugin',
     __DIR__
 );https://www.facebook.com/100010399419000/posts/2266469713709654/
+https://www.facebook.com/100010399419000/posts/2266469713709654/
